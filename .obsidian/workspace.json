@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "d27fb1014aefaa68",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b4b1b7c06ceb7bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10151ca8a72d294e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-04-15-fixing-fminsides-modified-fm-attributes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6da53d0fd181bd74",
+    "type": "split",
+    "children": [
+      {
+        "id": "32d9a1e3c25501ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0853d7aad9f1aea2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73d5c45d44a56d42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "700f3fd177faad80",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "80d14cc14a6a0f38",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c1827cf31447e41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d61c5358eff7acb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2024-04-15-fixing-fminsides-modified-fm-attributes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a44e767d16b88c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2024-04-15-fixing-fminsides-modified-fm-attributes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "329b43eaf7aa21fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c9c6458242133035",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2024-04-15-fixing-fminsides-modified-fm-attributes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "10151ca8a72d294e",
+  "lastOpenFiles": [
+    "_posts/2024-05-11-web-scraping-league-of-legends-data.md",
+    "_site/code/LeagueArenaStats.ipynb",
+    "_site/code",
+    "code/LeagueArenaStats.ipynb",
+    "Backup Tutorial Posts/2017-03-16-example-content.md",
+    "Backup Tutorial Posts/2021-04-30-managing-excerpt.md",
+    "Backup Tutorial Posts/2017-03-29-introducing-tale.md",
+    "code",
+    "New folder",
+    "_posts/2024-04-15-fixing-fminsides-modified-fm-attributes.md",
+    "_site/images/arenastats2.png",
+    "images/arenastats2.png",
+    "_site/images/arenastats.png",
+    "images/arenastats.png",
+    "_site/2024-05-11/web-scraping-league-of-legends-data.html",
+    "_site/2024-05-11",
+    "_site/2024-04-15/fixing-fminsides-modified-fm-attributes-1.html",
+    "Backup Tutorial Posts/2017-03-10-welcome-to-jekyll.md",
+    "Backup Tutorial Posts/2017-03-07-the-case-of-the-missing-post.md",
+    "Backup Tutorial Posts/2017-03-06-the-mystery-of-the-filler-post.md",
+    "Backup Tutorial Posts/2017-03-05-pagination-post.md",
+    "_site/Backup Tutorial Posts/2021-05-03-sticky-posts.html",
+    "_site/Backup Tutorial Posts/2021-04-30-managing-excerpt.html",
+    "_posts/2021-05-03-sticky-posts.md",
+    "Backup Tutorial Posts/2021-05-03-sticky-posts.md",
+    "_posts/2017-03-05-pagination-post.md",
+    "_pages/about.md",
+    "images/MbappeAfter.png",
+    "images/MbappeBefore.png",
+    "_site/images/MbappeBefore.png",
+    "_site/images/MbappeAfter.png",
+    "_site/MbappeAfter.png",
+    "MbappeAfter.png",
+    "_posts/2021-04-30-managing-excerpt.md",
+    "_posts/2017-03-16-example-content.md",
+    "_posts/2017-03-06-the-mystery-of-the-filler-post.md",
+    "_posts/2017-03-07-the-case-of-the-missing-post.md",
+    "_posts/2017-03-10-welcome-to-jekyll.md",
+    "_posts/2017-03-29-introducing-tale.md",
+    "_site/Untitled.md"
+  ]
+}

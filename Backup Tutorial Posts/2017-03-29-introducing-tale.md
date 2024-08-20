@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Introducing Tale"
-author: "Chester"
+title: Introducing Tale
+author: Chester
 comments: true
-tags: Tale
+tags:
+  - Tale
 excerpt_separator: <!--more-->
 sticky: true
 hidden: true

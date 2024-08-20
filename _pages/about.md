@@ -1,15 +1,14 @@
 ---
 layout: post
-title: "About"
-author: "Amar"
+title: About
+author: Amar
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Hi there! I'm **Amar**, a data scientist who occasionally writes about my adventures in the world of data on this (very rarely) updated blog. When I'm not knee-deep in code and datasets, you might find me gaming, at the gym, or playing my 20th season with Brighton on Football Manager.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+Feel free to explore my blog, where I dive into various aspects of data science, from machine learning techniques and data visualisation to real-world applications across industries. While I have a soft spot for football analytics, you'll find a diverse range of topics that showcase the power and versatility of data science.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+Oh, and don't worry, I'll make sure to make everything on this blog easy to understand, even if you don't have a technical background. 
 
-Thanks for reading!
+Thanks for reading! **😃**
