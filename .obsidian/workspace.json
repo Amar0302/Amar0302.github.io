@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-04-15-fixing-fminsides-modified-fm-attributes.md",
+                "file": "Backup Tutorial Posts/2017-03-07-the-case-of-the-missing-post.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-04-15-fixing-fminsides-modified-fm-attributes.md",
+                "file": "Backup Tutorial Posts/2017-03-07-the-case-of-the-missing-post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-04-15-fixing-fminsides-modified-fm-attributes.md",
+                "file": "Backup Tutorial Posts/2017-03-07-the-case-of-the-missing-post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-04-15-fixing-fminsides-modified-fm-attributes.md"
+                "file": "Backup Tutorial Posts/2017-03-07-the-case-of-the-missing-post.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "10151ca8a72d294e",
   "lastOpenFiles": [
+    "_pages/about.md",
+    "_posts/2024-04-15-fixing-fminsides-modified-fm-attributes.md",
     "_posts/2024-05-11-web-scraping-league-of-legends-data.md",
     "_site/code/LeagueArenaStats.ipynb",
     "_site/code",
@@ -157,7 +159,6 @@
     "Backup Tutorial Posts/2017-03-29-introducing-tale.md",
     "code",
     "New folder",
-    "_posts/2024-04-15-fixing-fminsides-modified-fm-attributes.md",
     "_site/images/arenastats2.png",
     "images/arenastats2.png",
     "_site/images/arenastats.png",
@@ -174,7 +175,6 @@
     "_posts/2021-05-03-sticky-posts.md",
     "Backup Tutorial Posts/2021-05-03-sticky-posts.md",
     "_posts/2017-03-05-pagination-post.md",
-    "_pages/about.md",
     "images/MbappeAfter.png",
     "images/MbappeBefore.png",
     "_site/images/MbappeBefore.png",
