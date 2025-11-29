@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1b4b1b7c06ceb7bf",
+        "id": "409eba37a7c75b9d",
         "type": "tabs",
         "children": [
           {
-            "id": "10151ca8a72d294e",
+            "id": "557c83226f3941ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backup Tutorial Posts/2017-03-07-the-case-of-the-missing-post.md",
+                "file": "_posts/2024-05-11-web-scraping-league-of-legends-data.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-05-11-web-scraping-league-of-legends-data"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backup Tutorial Posts/2017-03-07-the-case-of-the-missing-post.md",
+                "file": "_posts/2024-04-15-fixing-fminsides-modified-fm-attributes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-04-15-fixing-fminsides-modified-fm-attributes"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backup Tutorial Posts/2017-03-07-the-case-of-the-missing-post.md",
+                "file": "_posts/2024-04-15-fixing-fminsides-modified-fm-attributes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-04-15-fixing-fminsides-modified-fm-attributes"
             }
           },
           {
@@ -115,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backup Tutorial Posts/2017-03-07-the-case-of-the-missing-post.md"
-              }
+                "file": "_posts/2024-04-15-fixing-fminsides-modified-fm-attributes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-04-15-fixing-fminsides-modified-fm-attributes"
             }
           }
         ]
@@ -138,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -146,11 +169,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10151ca8a72d294e",
+  "active": "557c83226f3941ea",
   "lastOpenFiles": [
-    "_pages/about.md",
     "_posts/2024-04-15-fixing-fminsides-modified-fm-attributes.md",
+    "_pages/about.md",
     "_posts/2024-05-11-web-scraping-league-of-legends-data.md",
+    "Backup Tutorial Posts/2021-05-03-sticky-posts.md",
+    "images/arenastats2.png",
+    "images/arenastats.png",
+    "Backup Tutorial Posts/2017-03-07-the-case-of-the-missing-post.md",
     "_site/code/LeagueArenaStats.ipynb",
     "_site/code",
     "code/LeagueArenaStats.ipynb",
@@ -160,20 +187,16 @@
     "code",
     "New folder",
     "_site/images/arenastats2.png",
-    "images/arenastats2.png",
     "_site/images/arenastats.png",
-    "images/arenastats.png",
     "_site/2024-05-11/web-scraping-league-of-legends-data.html",
     "_site/2024-05-11",
     "_site/2024-04-15/fixing-fminsides-modified-fm-attributes-1.html",
     "Backup Tutorial Posts/2017-03-10-welcome-to-jekyll.md",
-    "Backup Tutorial Posts/2017-03-07-the-case-of-the-missing-post.md",
     "Backup Tutorial Posts/2017-03-06-the-mystery-of-the-filler-post.md",
     "Backup Tutorial Posts/2017-03-05-pagination-post.md",
     "_site/Backup Tutorial Posts/2021-05-03-sticky-posts.html",
     "_site/Backup Tutorial Posts/2021-04-30-managing-excerpt.html",
     "_posts/2021-05-03-sticky-posts.md",
-    "Backup Tutorial Posts/2021-05-03-sticky-posts.md",
     "_posts/2017-03-05-pagination-post.md",
     "images/MbappeAfter.png",
     "images/MbappeBefore.png",

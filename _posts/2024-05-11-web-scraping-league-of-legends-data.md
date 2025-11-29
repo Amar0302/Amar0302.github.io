@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visualising League Arena Mode Finishes Using Python and Web Scraping
-author: Amar Ladva
+author: Amar0302
 tags:
   - Python
   - Gaming

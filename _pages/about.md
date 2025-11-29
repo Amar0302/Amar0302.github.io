@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About
-author: Amar
+author: Amar0302
 permalink: /about/
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bringing Back Familiarity: Fixing FMInside.net's Modified FM Attributes"
-author: Amar Ladva
+author: Amar0302
 tags:
   - Gaming
   - Javascript
